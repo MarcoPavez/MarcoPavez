@@ -1,4 +1,4 @@
-# 🚀 About Me
+<!-- # 🚀 About Me
 I'm Katherine, a full stack developer with experience in ASP.NET Core 6, Node.js, and React. I'm passionate about creating robust and user-friendly web applications. With a strong foundation in JavaScript, HTML, and CSS, I strive to deliver high-quality code and exceptional user experiences.
 
 ## 🔗 Links
@@ -33,3 +33,4 @@ She/Her
 
 ## ⚡️ Fun fact...
 Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is often credited with writing the first algorithm designed to be processed by a machine. She's considered a pioneer in the field of computer science.
+-->
